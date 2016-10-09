@@ -1,6 +1,6 @@
 # Ubigeos List
 
-Formating Ubigeos list with AngularJs 1.5 from text file
+Format Ubigeos list with AngularJs 1.5 from text file
 
 ### Format valid in TXT
 
